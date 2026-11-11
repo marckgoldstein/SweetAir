@@ -1,0 +1,19 @@
+:root {
+  color-scheme: light;
+  --main-peach: #ffc09f;
+  --main-yellow: #ffee93;
+  --secondary-cream: #fcf5c7;
+  --accent-blue: #a0ced9;
+  --accent-green: #adf7b6;
+  --ink: #28323b;
+  --ink-soft: #555f67;
+  --muted: #788087;
+  --line: #e8e4d8;
+  --surface: #fffefa;
+  --surface-warm: #fff9e7;
+  --shadow: 0 16px 42px rgb(52 53 44 / 9%);
+  --radius-card: 24px;
+  --radius-control: 15px;
+  --content-width: 1080px;
+  font-family: Inter, ui-rounded, "Avenir Next", Avenir, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
